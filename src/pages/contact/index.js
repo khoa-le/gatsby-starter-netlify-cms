@@ -39,7 +39,29 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Liên Hệ</h1>
+              <div className="span8">
+                <div className="form">
+                  <div className="row">
+                    <lable><strong>Công Ty </strong></lable>
+                    <span><strong>TNHH Tư Vấn Hưng Phú</strong></span>
+                  </div>
+                  <div className="row">
+                    <lable><strong>Nhân Viên: </strong></lable>
+                    <span><strong>Trương Thị Diệu An</strong></span>
+                  </div>
+                  <div className="row">
+                    <lable><strong>Điện Thoại: </strong></lable>
+                    <span><strong>0938 328 186</strong></span>
+                  </div>
+                  <div className="row">
+                    <lable><strong>Địa Chỉ: </strong></lable>
+                    <span><strong>119 Đường 715 Tạ quang Bửu Phường 4,Quận 8 Tp.Hồ chí Minh</strong></span>
+                  </div>
+                </div>
+              </div>
+              <br/>
+              <br/>
               <form
                 name="contact"
                 method="post"
@@ -58,7 +80,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Họ Tên
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +110,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Nội Dung
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +124,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Gởi Cho Chúng Tôi
                   </button>
                 </div>
               </form>

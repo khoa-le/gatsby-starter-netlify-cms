@@ -1,19 +1,14 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Giới Thiệu Về Chúng Tôi
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### DỊCH VỤ KẾ TOÁN – THUẾ
+Kế toán Việt Nam được hình thành trong thời buổi kinh tế khó khăn hiện nay nhằm giúp đỡ các doanh nghiệp tiết kiệm chi phí cũng như cung cấp các dịch vụ có chất lượng cao nhất về kế toán dành cho các doanh nghiệp từ những doanh nghiệp lớn đến những doanh nghiệp nhỏ.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Chúng tôi có đội ngũ chuyên môn cao và khả năng tiếp cận các công nghệ mới, các chính sách mới ở mức cao nhất. Chúng tôi tin rằng, công việc về kế toán và sổ sách kế toán luôn được các doanh nghiệp quan tâm đặc biệt. Mục đích của chúng tôi là để giảm bớt gánh nặng của doanh nghiệp để họ có thể quản lý hiệu quả hơn và mang lại lợi nhuận cao hơn cho doanh nghiệp. Bằng cách này, chúng tôi sẽ tìm kiếm giải pháp để nâng cao hiệu suất kinh doanh của khách hàng mình. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Chúng tôi hiểu những vấn đề phức tạp liên quan đến việc gia công quy trình kinh doanh (BPO – Businesss Process Outsourcing). Vì vậy, khi bạn sử dụng dịch vụ kế toán của chúng tôi để outsource công việc kế toán của mình, không quan trọng qui mô kinh doanh của bạn, bạn sẽ được bảo đảm rằng, chúng tôi luôn là đối tác tốt, cũng giống như bạn đối với khách hàng của mình vậy. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Dù bạn là công ty nhỏ, vừa hay lớn, chúng tôi luôn cam kết thực hiện yêu cầu của bạn một cách chuyên nghiệp và những khả năng của chúng tôi có. Các công ty sử dụng dịch vụ kế toán của chúng tôi đã tiết kiệm đáng kể . Với việc sử dụng dịch vụ của chúng tôi các bạn có thể tiết kiệm được một chi phí nếu như thuê nhân viên toàn thời gian
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.

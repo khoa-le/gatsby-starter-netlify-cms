@@ -1,9 +1,9 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Dịch Vụ Của Chúng Tôi
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Dịch Vụ
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -12,6 +12,8 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
+      title: Dịch vụ kế toán
+      url: /products/dich-vu-ke-toan
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -19,12 +21,13 @@ intro:
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/coffee-gear.png
+      title: Gỡ rối sổ sách kế toán
+      url: /products/go-roi-so-sach-ke-toan
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Hiện nay, công tác kế toán và pháp lý Doanh Nghiệp thường gặp nhiều sai sót do nhân viên kế toán không ổn định, thiếu kinh nghiệm nên khiến cho việc quản lý, theo dõi trở nên khó khăn, phát sinh những vướng mắc, sai phạm về thuế dẫn đến những hậu quả nghiêm trọng khi thực hiện quyết toán thuế, gây thiệt hại cho doanh nghiệp.
     - image: /img/tutorials.png
+      title: Dịch vụ báo cáo thuế
+      url: /products/dich-vu-bao-cao-thue
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
@@ -32,6 +35,8 @@ intro:
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
     - image: /img/meeting-space.png
+      title: Tư vấn thành lập công ty
+      url: /products/tu-van-thanh-lap-cong-ty
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
